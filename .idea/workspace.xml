@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f11dcc3-7d22-45ff-92c7-1e05b29624fb" name="Default Changelist" comment="" />
+    <list default="true" id="9f11dcc3-7d22-45ff-92c7-1e05b29624fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -117,6 +122,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1Yms1y8QdWdk5wzVGMOI7RZ6zkS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -148,7 +154,7 @@
       <workItem from="1583558897517" duration="7921000" />
       <workItem from="1583806645813" duration="2195000" />
       <workItem from="1583901828668" duration="1014000" />
-      <workItem from="1584300251178" duration="1453000" />
+      <workItem from="1584300251178" duration="1719000" />
     </task>
     <servers />
   </component>
